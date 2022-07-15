@@ -2,7 +2,7 @@
 - 👀 I’m interested in all Frontend stuff and web3
 - 🌱 I’m currently learning Spanish 😆
 - 💞️ I’m looking to collaborate on interesting OpenSource projects
-- 📫 How to reach me: denisevich.aa@gmail.com
+- 📫 How to reach me: denisevich.aa[at]@gmail[d]com
 
 <!---
 aleks801/aleks801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
