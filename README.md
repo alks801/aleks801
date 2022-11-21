@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aleks801
+- 👋 Hi, I’m @aleks801 ![](https://visitor-badge.glitch.me/badge?page_id=aleks801.aleks801)
 - 👀 I’m interested in all Frontend stuff and web3
 - 🌱 I’m currently learning Spanish 😆
 - 💞️ I’m looking to collaborate on interesting OpenSource projects
