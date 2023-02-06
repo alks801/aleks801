@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksandr Denisevich ![](https://visitor-badge.glitch.me/badge?page_id=aleks801.aleks801)
 - Interested in all Frontend stuff and web3
-- Currently learning Spanish 🇪🇸
+- Currently learning Spanish 🇪🇸 and Chinese 🇨🇳
 - I’m looking to collaborate on interesting OpenSource projects
 - How to reach me: denisevich.aa[at]@gmail[d]com
 
